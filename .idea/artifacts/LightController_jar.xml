@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LightController:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LightController_jar</output-path>
+    <root id="archive" name="LightConroller.jar">
+      <element id="module-output" name="LightConroller" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BmsEngine/lib/nanohttpd-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BmsEngine/lib/log4j-api-2.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BmsEngine/lib/log4j-core-2.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BmsEngine/lib/rxtx-2.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BmsEngine/out/artifacts/SerialComm_jar/SerialComm.jar" path-in-jar="/" />
+      <element id="library" level="project" name="HttpServer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BmsEngine/out/artifacts/Common_jar/Common.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
